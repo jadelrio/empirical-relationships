@@ -4,6 +4,6 @@ Read in the following order (Se sugiere leer en el siguiente orden):
 
 RelacionesLineales (Linear regression)
 
-RelacionesExponenciales (Exponencial relatioship using liear regression)
+RelacionesExponenciales (Exponencial relatioship using linear regression)
 
 RelacionesPotenciales (potential relationship using linear regression)
