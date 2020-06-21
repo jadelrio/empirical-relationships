@@ -6,4 +6,4 @@ RelacionesLineales (Linear regression)
 
 RelacionesExponenciales (Exponencial relatioship using linear regression)
 
-RelacionesPotenciales (potential relationship using linear regression)
+RelacionesPotenciales (Potential relationship using linear regression)
