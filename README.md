@@ -6,7 +6,7 @@ We put the emphasize in clarity of the ideas instead of programming efficiency. 
 Read in the following order. Se sugiere leer en el siguiente orden:
 
 RelacionesLineales2 (with Linear Regression's formulas coded)
-RelacionesLineales (using standard librery of polylinear regression)
+RelacionesLineales (using standard library of polylinear regression)
 
 RelacionesExponenciales2 (Exponencial relatioship using linear regression formulas)
 RelacionesExponenciales (Exponencial relatioship using polylinear regression)
